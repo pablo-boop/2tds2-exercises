@@ -22,6 +22,7 @@ main {
     justify-content: center;
 }
 
+/*Main post container style*/
 #postForm {
     max-width: 500px;
     width: 100%;
